@@ -2,7 +2,7 @@
 
 
 
-Hi, I'm a master student in CS at Tsinghua University, China.
+Hi, I'm Qi Li (李奇), a master student in CS at Tsinghua University, China.
 
 My research interest are Vision-Language Pre-training (VLP), Image Captioning. 
 
