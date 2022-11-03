@@ -8,6 +8,22 @@ I'd like to pursuit PhD degree in THU.
 
 My research interest are Vision-Language Pre-training (VLP), Image Caption. 
 
-### Email: infdim1996@163.com
+---
 
-Feel free to drop me an e-mail.
+
+## Profile
+
+- Qi Li /1996 / Shenzhen, Guangdong
+- Email：infdim1996@163.com
+- Github：[https://github.com/infdim1996](https://github.com/infdim1996) 
+
+
+
+## Education Background
+
+- Master in Computer Science, Tsinghua University, 2019-2022
+- Bachelor in Computer Science, Lanzhou University, 2014-2018
+
+## Pulication
+
+TBD
