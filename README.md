@@ -21,7 +21,6 @@ Feel free to drop me an e-mail.
 ## Education Background
 
 - Master in Computer Science, Tsinghua University, 2019-2022
-- Bachelor in Computer Science, Lanzhou University, 2014-2018
 
 ## Publication
 
