@@ -24,6 +24,6 @@ My research interest are Vision-Language Pre-training (VLP), Image Caption.
 - Master in Computer Science, Tsinghua University, 2019-2022
 - Bachelor in Computer Science, Lanzhou University, 2014-2018
 
-## Pulication
+## Publication
 
 TBD
