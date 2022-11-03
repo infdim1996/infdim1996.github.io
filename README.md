@@ -4,16 +4,15 @@
 
 Hi, I'm a master student in CS at Tsinghua University, China.
 
-I'd like to pursuit PhD degree in THU.
+My research interest are Vision-Language Pre-training (VLP), Image Captioning. 
 
-My research interest are Vision-Language Pre-training (VLP), Image Caption. 
+Feel free to drop me an e-mail.
 
----
 
 
 ## Profile
 
-- Qi Li /1996 / Shenzhen, Guangdong
+- Qi Li /1996 / Shenzhen, Guangdong, China
 - Email：infdim1996@163.com
 - Github：[https://github.com/infdim1996](https://github.com/infdim1996) 
 
