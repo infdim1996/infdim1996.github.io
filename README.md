@@ -1,4 +1,4 @@
-## Personal Academic Homepage
+% ## Personal Academic Homepage
 
 
 Hi, I'm Qi Li. I'm now an research assistant in HKUST. My current research interests are in Large Language Model (LLM) , Machine Learning System (MLsys), and Adversarial Learning. Any collaboration is welcomed, feel free to drop me an e-mail.
@@ -25,8 +25,8 @@ Hi, I'm Qi Li. I'm now an research assistant in HKUST. My current research inter
   
 ## Education Background
 
-- Master Student in Computer Science, Tsinghua University, Beijing, China, 2019.08 - 2022.08
-- Undergraduate Student in Computer Science, Lanzhou University, Lanzhou, China, 2014.09 - 2018.07
+- Master Student, Tsinghua University, Beijing, China, 2019.08 - 2022.08
+- Undergraduate Student, Lanzhou University, Lanzhou, China, 2014.09 - 2018.07
   
 ## Publication
 
