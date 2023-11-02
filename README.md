@@ -1,27 +1,37 @@
-## Welcome to the Homepage of Qi Li
+## Personal Academic Homepage
 
 
+Hi, I'm Qi Li.
 
-Hi, I'm Qi Li (李奇), a master student in CS at Tsinghua University, China.
+My current research interests are in Large Language Model (LLM) , Machine Learning System (MLsys), and Adversarial Learning.
 
-My research interest are Vision-Language Pre-training (VLP), Image Captioning. 
-
-Feel free to drop me an e-mail.
-
+Any collaboration is welcomed, feel free to drop me an e-mail.
 
 
 ## Profile
 
-- Qi Li /1996 / Shenzhen, Guangdong, China
+- Qi Li,
+- Male, 26 
+- Hongkong, China
 - Email：infdim1996@163.com
-- Github：[https://github.com/infdim1996](https://github.com/infdim1996) 
+- Github：[https://github.com/infdim1996](https://github.com/infdim1996)
 
+# Research Interest
 
+- Large Language Model
+- Machine Learning System
+- Adversarial Learning
 
+# Working Experience
+
+- Research Assistant, Hongkong University of Science and Technology, 2023.03 - Now.
+- Research Assistant, Tsinghua University, 2022.09 - 2023.01
+  
 ## Education Background
 
-- Master in Computer Science, Tsinghua University, 2019-2022
-
+- Master Student in Computer Science, Tsinghua University, Beijing, China, 2019.08 - 2022.08
+- Undergraduate Student in Computer Science, Lanzhou University, Lanzhou, China, 2014.09 - 2018.07
+  
 ## Publication
 
-TBD
+- Qi Li, et al. 2023. Harnessing the Power of Pre-trained Vision-Language Models for Efficient Medical Report Generation. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM '23). Association for Computing Machinery, New York, NY, USA, 1308–1317.
