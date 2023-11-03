@@ -13,9 +13,10 @@ Hi, I'm Qi Li. I'm now an research assistant in HKUST. My current research inter
 
 ## Research Interest
 
-- Large Language Model
+- Efficient Large Language Model
+- Konwledge Discovery in Large Language Model
+- Security Issues in Large Language Model
 - Machine Learning System
-- Adversarial Learning
 
 ## Working Experience
 
