@@ -1,12 +1,11 @@
 ## Personal Homepage
 
-Hi, I'm Qi Li. I'm now an research assistant in HKUST. My current research interests are in Large Language Model (LLM) , Machine Learning System (MLsys), and Adversarial Learning. Any collaboration is welcomed, feel free to drop me an e-mail.
+Hi, I'm Qi Li. I'm now an research assistant in HKUST. My current research interests are in Large Language Model (LLM) , Machine Learning System (MLsys). Any collaboration is welcomed, feel free to drop me an e-mail.
 
 
 ## Profile
 
 - Qi Li,
-- Male, 26 
 - Hongkong, China
 - Email：infdim1996@163.com
 - Github：[https://github.com/infdim1996](https://github.com/infdim1996)
@@ -16,7 +15,6 @@ Hi, I'm Qi Li. I'm now an research assistant in HKUST. My current research inter
 - Efficient Large Language Model
 - Konwledge Discovery in Large Language Model
 - Security Issues in Large Language Model
-- Machine Learning System
 
 ## Working Experience
 
